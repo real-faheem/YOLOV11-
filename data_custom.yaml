@@ -1,0 +1,6 @@
+train: C:\Users\mdfah\OneDrive\Documents\yolov11_numplate\train
+val: C:\Users\mdfah\OneDrive\Documents\yolov11_numplate\val
+
+nc: 2
+
+names: ["car","taxi"]
